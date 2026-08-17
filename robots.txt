@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-cr64bg.assetshst.online/sitemap.xml
